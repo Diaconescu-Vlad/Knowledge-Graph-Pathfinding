@@ -1,4 +1,0 @@
-PATH Ana Oras
-DIJKSTRA Ana Oras
-PATH Oras Ana
-DIJKSTRA Oras Ana
